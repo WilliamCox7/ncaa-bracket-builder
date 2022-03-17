@@ -1,0 +1,22 @@
+{
+  "name": "ncaa-bracket-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamCox7/ncaa-bracket-builder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilliamCox7/ncaa-bracket-builder/issues"
+  },
+  "homepage": "https://github.com/WilliamCox7/ncaa-bracket-builder#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
